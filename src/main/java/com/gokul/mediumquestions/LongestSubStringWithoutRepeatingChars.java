@@ -43,6 +43,8 @@ public class LongestSubStringWithoutRepeatingChars {
 
     public  static int getNumberOdCharactersSlidingWindow(String s){
 
+//        Here the first pointer increments by one and the other pointer, till the condition meets
+
         int pointer1=0;
         int pointer2=0;
 

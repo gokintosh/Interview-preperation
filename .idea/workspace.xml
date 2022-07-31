@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2866c747-f3b6-4276-b413-11e2add35426" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gokul/mediumquestions/LongestSubStringWithoutRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gokul/mediumquestions/LongestSubStringWithoutRepeatingChars.java" afterDir="false" />
-    </list>
+    <list default="true" id="2866c747-f3b6-4276-b413-11e2add35426" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,7 @@
       <workItem from="1659127191805" duration="381000" />
       <workItem from="1659128130241" duration="432000" />
       <workItem from="1659129032671" duration="2669000" />
-      <workItem from="1659258193793" duration="13106000" />
+      <workItem from="1659258193793" duration="13534000" />
     </task>
     <servers />
   </component>
